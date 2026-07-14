@@ -8,6 +8,7 @@ Two variants, identical except slide 3 (the product slide). Pick the style you p
 
 - **Text product slide (recommended):** https://bala91px.github.io/beat-proposal/v2-text.html
 - **Card product slide:** https://bala91px.github.io/beat-proposal/v2.html
+- **PRD (dev spec, aligned to this deck):** https://bala91px.github.io/beat-wireframes/prd-v2.html
 
 Both: 7 slides · cover "Every rep sells your way. Every price holds." · dark/light toggle · arrow / click / swipe nav · print to PDF (`Cmd/Ctrl + P`).
 
