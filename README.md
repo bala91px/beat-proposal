@@ -18,7 +18,7 @@ Both: 7 slides · cover "Every rep sells your way. Every price holds." · dark/l
 
 ## Commercial (locked to the 91Pixels Project Estimate)
 
-**$4,800** one-time · 50 / 30 / 20 payment · from **$250/mo** optional care · 30 to 45 days.
+**$6,800** one-time · 50 / 30 / 20 payment · from **$250/mo** optional care · 30 to 45 days.
 
 Self-contained decks (Clash Display + Inter via CDN, no other assets). Unlisted / noindex, but the repo is public, so treat links as private-by-obscurity.
 
